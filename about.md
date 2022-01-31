@@ -1,8 +1,8 @@
-<!-- ---
+
 layout: page
 title: About
 permalink: /about/
---- -->
+
 ## About 
 
 Hello! My name is Tanya Singh and I'm from Boston, Massachusetts. I am a senior at NYU studying Computer Science and Digital Art. 
