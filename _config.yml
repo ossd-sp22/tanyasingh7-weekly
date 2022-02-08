@@ -17,7 +17,7 @@ avatar: "https://github.com/ossd-sp22/tanyasingh7-weekly/blob/gh-pages/images/ta
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
-excerpt_separator: <!--more-->
+excerpt_separator: <!--more--> 
 
 # CUSTOMIZE
 #
