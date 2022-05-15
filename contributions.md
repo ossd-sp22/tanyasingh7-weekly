@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | https://github.com/amphinomid/liar/pull/32    | GitHub   |   I added a new category to an open source game named 'Liar'    |
-|    May 15 |    https://www.openstreetmap.org/changeset/121022583#map=13/42.2361/-71.6256 |    OpenMap |     Added/Edited 5 New Points to my Hometown Map|
+|    May 15 |    https://www.openstreetmap.org/changeset/121022583#map=13/42.2361/-71.6256 |    OpenStreetMap |     Added/Edited 5 New Points to my Hometown Map|
 |     |     |     |      |
